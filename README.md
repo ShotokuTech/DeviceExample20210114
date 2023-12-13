@@ -5,3 +5,4 @@ TinyGPSPlus is great. But it includes the use of SoftwareSerial. ESP32 does not 
 
 Latest Heltec ESP32 LoRa Update and Connecting to a GPS Module
 https://youtu.be/bBFnIuqFutc
+![](https://github.com/ShotokuTech/DeviceExample20210114/blob/main/heltec%20lora.png)
